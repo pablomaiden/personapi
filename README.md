@@ -8,4 +8,6 @@ envolve muito mais do que isso, estudar tecnologia envolve o fazer, fazer algo q
 quando você coloca a mão na massa o aprendizado é consolidado, e para melhorar ainda mais, tenta gravar vídeos
 ensinando aquilo que você aprendeu, ajuda na consolidação do estudo.
 
-Agora vamos aos pontos deste projeto:
+Agora vamos aos pontos deste projeto, segue abaixo as tecnolgias utilizadas.
+
+As seguintes ferramentas abaixo são utilizadas como parte do desenvolvimento do projeto prático:
